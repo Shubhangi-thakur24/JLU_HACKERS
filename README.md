@@ -1,4 +1,4 @@
-# SynapseOS - AI Learning Companion Frontend
+# PrepSaathiAI
 
 A production-ready React (Vite) frontend for the SynapseOS learning platform, featuring AI-powered spaced repetition, study planning, and video distillation.
 
